@@ -11,7 +11,8 @@ Bem-vindo ao projeto "Criando Músicas com uma AI Music Generator"! Este projeto
 Utilizei o "ChatGPT" criar a letra baseado em um conto de terror produzido pelo mesmo. Em adição, o "Udio" foi usado para gerar a música.
 
 ## 🚀 Resultados
-A música gerada pelo "Udio" mostrou-se sólida, principalmente no instrumental. Entretanto, o vocal ainda está um pouco distante do ideal.
+A música gerada pelo "Udio" mostrou-se sólida, principalmente no instrumental. Entretanto, o vocal ainda está um pouco distante do ideal. 
+[MÚSICA](https://www.udio.com/songs/pFjcAwvxVBJRk6kNeFaXsz)
 
 [LINK PARA O E-BOOK AQUI]()
 
